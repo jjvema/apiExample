@@ -1,5 +1,5 @@
 # apiExample
-API REST to upload and download files
+NodeJS API REST to upload and download files
 
 Installation
 1.- Cloning apiExample repository
